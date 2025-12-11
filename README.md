@@ -1,6 +1,6 @@
 # **Stock Management and User Administration System (C Program)**
 
-This project is a **console-based management system** written in C that handles users, stocks, and trading operations. It simulates a basic stock exchange environment with support for both **admin** and **member (user)** accounts. The system uses text files for persistent data storage and provides full CRUD (Create, Read, Update, Delete) functionality for users, stocks, and trades.
+This project is a stock management system written in C that handles users, stocks, and trading operations. It simulates a basic stock exchange environment with support for both **admin** and **member (user)** accounts. The system uses text files for persistent data storage and provides full CRUD (Create, Read, Update, Delete) functionality for users, stocks, and trades.
 
 ---
 
